@@ -1,0 +1,46 @@
+{
+	"menu": {
+		"item2": "Sobre mí",
+		"item3": "Habilidades",
+		"item4": "Formación",
+		"item5": "Proyectos",
+		"item6": "Contacto"
+	},
+	"home": {
+		"home_text-1": "Hola! Soy",
+		"home_text-3": "Desarrolladora web ",
+		"parrafo-info": "Soy un Desarrolladora web Developer con experiencia en proyectos independientes, destacándome en el desarrollo integral de aplicaciones web tanto en el frontend como en el backend. Mi enfoque se centra en el aprendizaje continuo y la resolución creativa de problemas. Disfruto colaborando en entornos donde la comunicación efectiva es esencial para el éxito del equipo. Apasionado por el desarrollo de software, proporciono soluciones óptimas con mi enfoque proactivo para alcanzar los objetivos propuestos.",
+		"cv_button": "Descargar CV",
+		"contact_button": "Contacto"
+	},
+	"sobre-mi": {
+		"title": "Sobre mí",
+		"texto_sobreMi": "Soy egresada del programa de Digital House donde adquiri conocemientos como web Developer donde aprendi buenas practicas, trabajo en equipo, metodologia Scrum, backend, frontend, infraestructura entre otras practicas. <br>Aspiro conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
+	},
+	"habilidades": {
+		"title": "Habilidades"
+	},
+	"formacion": {
+		"title": "Formación",
+		"formacion1": "Digital House | Certified Tech Developer",
+		"tiempo-formacion1": "2022- 2024",
+		"formacion2": "Backend Globant University",
+		"tiempo-formacion2": "2023-2024",
+		"formacion3": "AWS CENDI",
+		"tiempo-formacion3": "2024"
+	
+	},
+	"proyectos": {
+		"title": "Proyectos",
+		"title-proyecto1": "Clínica odontologica",
+		"info-proyecto1": "Backend de una aplicación para clínica odontológica, utilizando Java. La plataforma facilita la gestión de citas, registra odontologos y lista odontologos. Garanticé un flujo de datos preciso y lideré un equipo para una entrega puntual y eficiente.",
+		"title-proyecto2": "Clínica",
+		"info-proyecto2": "Desarrollé la interfaz de usuario para una aplicación clínica con React. Permite a los pacientes agregar o retirar médicos, así como agendar y retirar citas de manera eficiente.",
+		"title-proyecto3": "Portafolio",
+		"info-proyecto3": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
+		"title-proyecto4": "Doremi",
+		"info-proyecto4": " Doremi es una plataforma online que permite reservar instrumentos y accesorios musicales de forma rápida, fácil y segura."
+	}
+
+	
+}

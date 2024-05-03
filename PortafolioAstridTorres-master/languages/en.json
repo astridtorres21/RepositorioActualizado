@@ -1,0 +1,47 @@
+{
+    "menu": {
+        "item2": "About me",
+        "item3": "Skills",
+        "item4": "Training",
+        "item5": "Projects",
+        "item6": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "Hello! I am",
+        "home_text-3": "Web Developer",
+        "parrafo-info": "I am a Fullstack Developer with experience in independent projects,standing out in the comprehensive development of web applications both in the frontend and in the backend. My approach focuses on continuous learning and creative problem solving. I enjoy collaborating in environments where effective communication is essential to the team's success. Passionate about software development, providing optimal solutions with my proactive approach to meeting the proposed objectives",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About me",
+        "texto_sobreMi": "escribe acerca de ti en ingles"
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "formacion": {
+        "title": "Training",
+        "formacion1": "Digital House | Certified Tech Developer",
+        "tiempo-formacion1": "2022- 2024",
+        "formacion2": "Backend Globant University",
+        "tiempo-formacion2": "2023-2024",
+        "formacion3": "AWS CENDI ",
+        "tiempo-formacion3": "2024"
+    },
+
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "Odontologic clinic",
+        "info-proyecto1": " proyecto1",
+        "title-proyecto2": "Portfolio",
+        "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills and a bit about my background.",
+        "title-proyecto3": "Clinic",
+        "info-proyecto3": "descripción de backend de la clinica odontologica "
+    }
+
+}
